@@ -1,4 +1,5 @@
 {
   "baseUrl": "https://demoqa.com",
-  "nodeVersion": "system"
+  "nodeVersion": "system",
+  "viewportHeight": 1000
 }
